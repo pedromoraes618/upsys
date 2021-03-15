@@ -1,0 +1,49 @@
+.bg-dark{
+	background-color: #fff
+}
+
+div.container{
+	padding-top: 65px;
+}
+
+.navbar-default{
+	background: rgba(255,255,255,0.95);
+	color: #fff;
+}
+
+
+
+.dropdown-item {text-decoration: none;
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+	border: 0;text-decoration: none;
+	}
+a{text-decoration: none;}
+.dropdown-menu{text-decoration: none; border-radius: 8px;}
+
+.dropdown-menu li{padding-top: 04}
+
+.dropdown-menu li a{font-size: 16} 
+
+.dropdown-menu li a:active{
+background: rgba(135,206,250,2);
+}
+
+nav{margin-top: -2}
+
+.container{ width: 1350}
+.cabecalho{background:rgba(112,128,144)}
+
+.navbar{}
+.menup{background-color: ;margin-top: -50px; width: 455px; border-radius: 8px; background:rgba(112,128,144)}
+
+.container h2{float: right; margin-top:-68px; margin-right: 556px; font-family: Bahnschrift SemiBold;}
+
+
